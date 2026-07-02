@@ -1,0 +1,15 @@
+{
+  "strategy": "EMA-200 Daily Crossover",
+  "ema_period": 200,
+  "stop_loss_pct": 0.15,
+  "timeframe": "D",
+  "pairs": ["BTCUSDT", "ETHUSDT", "SOLUSDT", "XRPUSDT"],
+  "max_positions": 2,
+  "position_size_pct": 0.40,
+  "backtest_results": {
+    "BTCUSDT": {"roi_pct": 466, "win_rate": 0.42, "trades_4y": 31},
+    "ETHUSDT": {"roi_pct": 460, "win_rate": 0.71, "trades_4y": 17},
+    "SOLUSDT": {"roi_pct": 973, "win_rate": 0.52, "trades_4y": 33},
+    "XRPUSDT": {"roi_pct": 640, "win_rate": 0.48, "trades_4y": 42}
+  }
+}

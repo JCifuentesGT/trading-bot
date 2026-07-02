@@ -1,0 +1,189 @@
+[
+  {
+    "timestamp": "2026-06-05 13:43:45.272679",
+    "portfolio": "conservative",
+    "symbol": "XRPUSDT",
+    "signal": "LONG",
+    "entry": 6.914,
+    "exit": 6.7784,
+    "qty": 180.5,
+    "pnl": -24.4758,
+    "exit_reason": "STOP_LOSS"
+  },
+  {
+    "timestamp": "2026-06-05 13:43:45.851963",
+    "portfolio": "aggressive",
+    "symbol": "XRPUSDT",
+    "signal": "LONG",
+    "entry": 6.914,
+    "exit": 6.7784,
+    "qty": 180.5,
+    "pnl": -24.4758,
+    "exit_reason": "STOP_LOSS"
+  },
+  {
+    "timestamp": "2026-06-09 04:10:49.154008",
+    "portfolio": "conservative",
+    "symbol": "ETHUSDT",
+    "signal": "LONG",
+    "entry": 9500.0,
+    "exit": 1701.51,
+    "qty": 0.01,
+    "pnl": -77.9849,
+    "exit_reason": "STOP_LOSS"
+  },
+  {
+    "timestamp": "2026-06-09 04:10:49.743679",
+    "portfolio": "aggressive",
+    "symbol": "ETHUSDT",
+    "signal": "LONG",
+    "entry": 9500.0,
+    "exit": 1701.51,
+    "qty": 0.04,
+    "pnl": -311.9396,
+    "exit_reason": "STOP_LOSS"
+  },
+  {
+    "timestamp": "2026-06-09 06:42:15.045846",
+    "portfolio": "conservative",
+    "symbol": "SOLUSDT",
+    "signal": "LONG",
+    "entry": 65.81,
+    "exit": 130.07,
+    "qty": 4.1,
+    "pnl": 263.466,
+    "exit_reason": "TAKE_PROFIT"
+  },
+  {
+    "timestamp": "2026-06-09 06:42:16.110926",
+    "portfolio": "aggressive",
+    "symbol": "SOLUSDT",
+    "signal": "LONG",
+    "entry": 65.81,
+    "exit": 130.07,
+    "qty": 12.7,
+    "pnl": 816.102,
+    "exit_reason": "TAKE_PROFIT"
+  },
+  {
+    "timestamp": "2026-06-13 04:36:33.297640",
+    "portfolio": "conservative",
+    "symbol": "XRPUSDT",
+    "signal": "LONG",
+    "entry": 6.5206,
+    "exit": 5.416,
+    "qty": 197.6,
+    "pnl": -218.269,
+    "exit_reason": "STOP_LOSS"
+  },
+  {
+    "timestamp": "2026-06-13 04:36:33.897315",
+    "portfolio": "aggressive",
+    "symbol": "XRPUSDT",
+    "signal": "LONG",
+    "entry": 6.5206,
+    "exit": 5.416,
+    "qty": 209.7,
+    "pnl": -231.6346,
+    "exit_reason": "STOP_LOSS"
+  },
+  {
+    "timestamp": "2026-06-15 16:13:41.342605",
+    "portfolio": "conservative",
+    "symbol": "ETHUSDT",
+    "signal": "LONG",
+    "entry": 9433.47,
+    "exit": 10387.75,
+    "qty": 0.12,
+    "pnl": 114.5136,
+    "exit_reason": "TAKE_PROFIT"
+  },
+  {
+    "timestamp": "2026-06-15 18:00:00.245579",
+    "portfolio": "aggressive",
+    "symbol": "ETHUSDT",
+    "signal": "LONG",
+    "entry": 9433.47,
+    "exit": 10400.4,
+    "qty": 0.13,
+    "pnl": 125.7009,
+    "exit_reason": "TAKE_PROFIT"
+  },
+  {
+    "timestamp": "2026-06-15 18:30:16.967657",
+    "portfolio": "conservative",
+    "symbol": "ETHUSDT",
+    "signal": "LONG",
+    "entry": 10196.48,
+    "exit": 10608.4,
+    "qty": 0.11,
+    "pnl": 45.3112,
+    "exit_reason": "TAKE_PROFIT"
+  },
+  {
+    "timestamp": "2026-06-16 15:04:09.274780",
+    "portfolio": "conservative",
+    "symbol": "BTCUSDT",
+    "signal": "LONG",
+    "entry": 63810.6,
+    "exit": 93333.4,
+    "qty": 0.018,
+    "pnl": 531.4104,
+    "exit_reason": "TAKE_PROFIT"
+  },
+  {
+    "timestamp": "2026-06-16 15:04:09.851707",
+    "portfolio": "aggressive",
+    "symbol": "BTCUSDT",
+    "signal": "LONG",
+    "entry": 63810.6,
+    "exit": 93409.5,
+    "qty": 0.02,
+    "pnl": 591.978,
+    "exit_reason": "TAKE_PROFIT"
+  },
+  {
+    "timestamp": "2026-06-17 16:46:30.898144",
+    "portfolio": "conservative",
+    "symbol": "ETHUSDT",
+    "signal": "LONG",
+    "entry": 32208.44,
+    "exit": 37737.27,
+    "qty": 0.03,
+    "pnl": 165.8649,
+    "exit_reason": "TAKE_PROFIT"
+  },
+  {
+    "timestamp": "2026-06-17 16:46:31.516516",
+    "portfolio": "aggressive",
+    "symbol": "ETHUSDT",
+    "signal": "LONG",
+    "entry": 32208.44,
+    "exit": 37737.27,
+    "qty": 0.03,
+    "pnl": 165.8649,
+    "exit_reason": "TAKE_PROFIT"
+  },
+  {
+    "timestamp": "2026-06-18 05:06:31.533486",
+    "portfolio": "conservative",
+    "symbol": "ETHUSDT",
+    "signal": "LONG",
+    "entry": 49625.69,
+    "exit": 44505.63,
+    "qty": 0.01,
+    "pnl": -51.2006,
+    "exit_reason": "STOP_LOSS"
+  },
+  {
+    "timestamp": "2026-06-18 06:06:30.483898",
+    "portfolio": "aggressive",
+    "symbol": "ETHUSDT",
+    "signal": "LONG",
+    "entry": 50996.52,
+    "exit": 80350.48,
+    "qty": 0.01,
+    "pnl": 293.5396,
+    "exit_reason": "TAKE_PROFIT"
+  }
+]
