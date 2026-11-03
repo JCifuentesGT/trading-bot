@@ -1,30 +1,14 @@
 {
-  "conservative": {
+  "main": {
     "capital": 5748.635839999999,
-    "peak_capital": 5799.836439999999,
-    "risk_pct": 0.01,
-    "base_risk_pct": 0.01,
-    "drawdown_limit": 0.1,
+    "peak_capital": 5748.635839999999,
+    "drawdown_limit": 0.2,
     "open_trades": 0,
-    "total_trades": 9,
-    "wins": 5,
-    "losses": 4,
+    "total_trades": 0,
+    "wins": 0,
+    "losses": 0,
     "paused": false,
     "pause_reason": "",
-    "last_updated": "2026-06-18 05:06:31.546151"
-  },
-  "aggressive": {
-    "capital": 6425.13538,
-    "peak_capital": 6425.13538,
-    "risk_pct": 0.03,
-    "base_risk_pct": 0.03,
-    "drawdown_limit": 0.15,
-    "open_trades": 0,
-    "total_trades": 8,
-    "wins": 5,
-    "losses": 3,
-    "paused": false,
-    "pause_reason": "",
-    "last_updated": "2026-06-18 06:06:30.492444"
+    "last_updated": "2026-10-11 06:53:17.742914"
   }
 }
